@@ -1,4 +1,6 @@
-public class Student extends User{
+package StudentManagementSystem;
+
+public class Student extends User {
     int id;
     String matricNumber;
     String department;

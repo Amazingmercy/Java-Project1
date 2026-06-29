@@ -1,3 +1,5 @@
+package StudentManagementSystem;
+
 import java.util.Scanner;
 
 public class Main{
